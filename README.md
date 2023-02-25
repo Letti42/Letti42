@@ -1,7 +1,7 @@
 <h2> Hey! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30" /> <br /> <br /> I'm Letti.  </h2> 
 
 <div align="center">
-  <img src="https://gif-generator.ifiam.repl.co/projects.gif" width="1000"/>
+  <img src="https://gif-generator.ifiam.repl.co/projects.gif" width="850"/>
  </div>
 
 <br />
