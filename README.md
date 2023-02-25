@@ -38,6 +38,34 @@
       </a>
     </td>
   </tr>
+      <tr>
+    <td align="center" width="192">
+      <a href="https://spotify-listening-to.ifiam.repl.co/spotify/track5" target="_blank" width="192">
+        <code><img src="https://spotify-listening-to.ifiam.repl.co/tracks/track5.png" width="192" height="256"  /></code>
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="192">
+      <a href="https://spotify-listening-to.ifiam.repl.co/spotify/track6" target="_blank" width="192">
+        <code><img src="https://spotify-listening-to.ifiam.repl.co/tracks/track6.png" width="192" height="256"  /></code>
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="192">
+      <a href="https://spotify-listening-to.ifiam.repl.co/spotify/track7" target="_blank" width="192">
+        <code><img src="https://spotify-listening-to.ifiam.repl.co/tracks/track7.png" width="192" height="256" /></code>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="192">
+      <a href="https://spotify-listening-to.ifiam.repl.co/spotify/track8" target="_blank" width="192">
+        <code><img src="https://spotify-listening-to.ifiam.repl.co/tracks/track8.png" width="192" /></code>
+      </a>
+    </td>
+  </tr>
 </div>
  
  
