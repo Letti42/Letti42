@@ -11,30 +11,30 @@
 
 <div>
     <tr>
-    <td align="center" width="190">
-      <a href="https://spotify-listening-to.ifiam.repl.co/spotify/track1" target="_blank" width="190">
-        <code><img src="https://spotify-listening-to.ifiam.repl.co/tracks/track1.png" width="190" /></code>
+    <td align="center" width="192">
+      <a href="https://spotify-listening-to.ifiam.repl.co/spotify/track1" target="_blank" width="192">
+        <code><img src="https://spotify-listening-to.ifiam.repl.co/tracks/track1.png" width="192" height="256"  /></code>
       </a>
     </td>
   </tr>
     <tr>
-    <td align="center" width="190">
-      <a href="https://spotify-listening-to.ifiam.repl.co/spotify/track2" target="_blank" width="190">
-        <code><img src="https://spotify-listening-to.ifiam.repl.co/tracks/track2.png" width="190" /></code>
+    <td align="center" width="192">
+      <a href="https://spotify-listening-to.ifiam.repl.co/spotify/track2" target="_blank" width="192">
+        <code><img src="https://spotify-listening-to.ifiam.repl.co/tracks/track2.png" width="192" height="256"  /></code>
       </a>
     </td>
   </tr>
     <tr>
-    <td align="center" width="190">
-      <a href="https://spotify-listening-to.ifiam.repl.co/spotify/track3" target="_blank" width="190">
-        <code><img src="https://spotify-listening-to.ifiam.repl.co/tracks/track3.png" width="190" /></code>
+    <td align="center" width="192">
+      <a href="https://spotify-listening-to.ifiam.repl.co/spotify/track3" target="_blank" width="192">
+        <code><img src="https://spotify-listening-to.ifiam.repl.co/tracks/track3.png" width="192" height="256" /></code>
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="190">
-      <a href="https://spotify-listening-to.ifiam.repl.co/spotify/track4" target="_blank" width="190">
-        <code><img src="https://spotify-listening-to.ifiam.repl.co/tracks/track4.png" width="190" /></code>
+    <td align="center" width="192">
+      <a href="https://spotify-listening-to.ifiam.repl.co/spotify/track4" target="_blank" width="192">
+        <code><img src="https://spotify-listening-to.ifiam.repl.co/tracks/track4.png" width="192" /></code>
       </a>
     </td>
   </tr>
