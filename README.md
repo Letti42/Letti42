@@ -13,7 +13,7 @@
   <tr>
     <td align="center" width="192">
       <a href="https://spotify-playing.ifiam.repl.co/link/player" target="_blank" width="192">
-        <code><img src="https://spotify-playing.ifiam.repl.co/player.svg" width="310" height="410"  /></code>
+        <code><img src="https://spotify-playing-letti42.onrender.com/player.svg" width="310" height="410"  /></code>
       </a>
     </td>
   </tr>
