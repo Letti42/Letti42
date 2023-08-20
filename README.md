@@ -12,7 +12,7 @@
 <div>
       <td><img src="https://spotify-playing-letti42.onrender.com/title.svg" /></td>
   <br>
-    <td><img src="https://spotify-playing-letti42.onrender.com/svg.svg" /></td>
+    <td><img src="https://spotify-playing-letti42.onrender.com/artist.svg" /></td>
   <tr>
     <td align="center" width="192">
       <a href="https://spotify-playing.ifiam.repl.co/link/player" target="_blank" width="192">
