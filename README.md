@@ -9,14 +9,15 @@
 
 <samp fontSize="20px"> Here's what I'm listening to RIGHT NOW! </samp>
 
+
 <div>
-      <td><img src="https://spotify-playing-letti42.onrender.com/title.svg" /></td>
+      <td><a href="https://spotify-playing-letti42.onrender.com/link/player" target="_blank" width="192"><img src="https://spotify-playing-letti42.onrender.com/title.svg" /></a></td>
   <br>
-    <td><img src="https://spotify-playing-letti42.onrender.com/artist.svg" /></td>
+    <td><a href="https://spotify-playing-letti42.onrender.com/link/player" target="_blank" width="192"><img src="https://spotify-playing-letti42.onrender.com/artist.svg" /></a></td>
   <tr>
     <br>
     <td align="center" width="192">
-      <a href="https://spotify-playing.ifiam.repl.co/link/player" target="_blank" width="192">
+      <a href="https://spotify-playing-letti42.onrender.com/link/player" target="_blank" width="192">
         <code><img src="https://spotify-playing-letti42.onrender.com/player.svg" width="310" height="410"  /></code>
       </a>
     </td>
