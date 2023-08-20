@@ -10,9 +10,10 @@
 <samp fontSize="20px"> Here's what I'm listening to RIGHT NOW! </samp>
 
 <div>
-  <tr>
-    <td><img src="https://spotify-playing-letti42.onrender.com/title.svg" /></td>
+      <td><img src="https://spotify-playing-letti42.onrender.com/title.svg" /></td>
+  <br>
     <td><img src="https://spotify-playing-letti42.onrender.com/svg.svg" /></td>
+  <tr>
     <td align="center" width="192">
       <a href="https://spotify-playing.ifiam.repl.co/link/player" target="_blank" width="192">
         <code><img src="https://spotify-playing-letti42.onrender.com/player.svg" width="310" height="410"  /></code>
