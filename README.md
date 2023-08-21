@@ -16,6 +16,10 @@
     </td>
   </tr>
 </div>
+
+<code>
+This was generated through a Node.js project, but all the functionality is strictly SVG and CSS (no javascript on the frontend!)
+</code>
  
  
  
