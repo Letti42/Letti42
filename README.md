@@ -1,14 +1,7 @@
 <h2> Hey! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30" /> <br /> <br /> I'm Letti.  </h2> 
 
-<div align="center">
-  <img src="https://gif-generator.ifiam.repl.co/projects.gif" width="850"/>
- </div>
-
-<br />
-<br />
-
 <samp fontSize="20px"> Here's what I'm listening to RIGHT NOW! </samp>
-
+<br />
 
 <div>
       <td><a href="https://spotify-playing-letti42.onrender.com/link/player" target="_blank" width="192"><img src="https://spotify-playing-letti42.onrender.com/title.svg" /></a></td>
